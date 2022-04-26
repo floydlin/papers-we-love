@@ -11,14 +11,14 @@ We want to help bring academic research closer to practitioners and we strive to
 
 ### Respect content licenses
 
-* **We will only merge pull requests that contain research papers that allow digital distribution.** Papers whose copyright prohibits redistribution will not be accepted; for example [license 1](http://www.acm.org/publications/policies/copyright-policy-v1) from the [ACM digital library](http://www.acm.org/publications/policies/copyright_policy).
+* **We will only merge pull requests that contain research papers that allow digital distribution.** Papers whose copyright prohibits redistribution will not be accepted; for example [license 8](http://www.acm.org/publications/policies/copyright-policy-v8/) from the [ACM digital library](http://www.acm.org/publications/policies/copyright_policy).
 * We encourage papers that do not allow digital distribution to be added to a README, with a link to the source URL, in the appropriate subject's folder. For example, [the distributed systems README](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/README.md).
 
 ### Follow our commit, naming, and directory-organization conventions
 
 * Directory names are undercased and separated by underscores (example: artificial_intelligence)
 * Paper names are undercased and separated by dashes (example: out-of-the-tar-pit.pdf). Use the full title when possible.
-* If your pull request includes a binary file, like a `*.pdf` for example, please still include a link to the source URL in the appropriate subject's folder's README file and highlight it with a :scroll: emojii to show that the directory contains the file itself. Here's an example [pull request](https://github.com/papers-we-love/papers-we-love/pull/366/files).
+* If your pull request includes a binary file, like a `*.pdf` for example, please still include a link to the source URL in the appropriate subject's folder's README file and highlight it with a :scroll: emoji to show that the directory contains the file itself. Here's an example [pull request](https://github.com/papers-we-love/papers-we-love/pull/366/files).
 * After raising [this issue](https://github.com/papers-we-love/papers-we-love/issues/290), it would beneficial to also include the *year* along with the title, link, and description/importance when adding paper(s) to a README.
 * Please rebase all multi-commit branches/PRs into 1 single commit.
 

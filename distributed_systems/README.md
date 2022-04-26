@@ -9,7 +9,7 @@
 
 ## External Papers
 
-* [:scroll:](a-note-on-distributed-computing.pdf) [A Note on Distributed Computing](http://www.eecs.harvard.edu/~waldo/Readings/waldo-94.pdf)
+* [:scroll:](a-note-on-distributed-computing.pdf) [A Note on Distributed Computing](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=5A960A7B16A7BB42A99D7B6EFC30FB25?doi=10.1.1.41.7628&rep=rep1&type=pdf)
 
 * [A simple totally ordered broadcast protocol](http://diyhpl.us/~bryan/papers2/distributed/distributed-systems/zab.totally-ordered-broadcast-protocol.2008.pdf)
 
@@ -17,7 +17,7 @@
 
 * [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
 
-* [Kafka: a Distributed Messaging System for Log Processing](http://research.microsoft.com/en-us/um/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf)
+* [Kafka: a Distributed Messaging System for Log Processing](http://notes.stephenholiday.com/Kafka.pdf)
 
 * [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43438.pdf)
 
@@ -31,11 +31,11 @@
 
 * [Omega: flexible, scalable schedulers for large compute clusters](http://research.google.com/pubs/archive/41684.pdf)
 
-* [Orleans: Distributed Virtual Actors for Programmability and Scalability] (http://research.microsoft.com/apps/pubs/default.aspx?id=210931)
+* [Orleans: Distributed Virtual Actors for Programmability and Scalability](http://research.microsoft.com/apps/pubs/default.aspx?id=210931)
 
 * [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 
-* [Practical Byzantine Fault Tolerance and Proactive Recovery](http://www.itu.dk/stud/speciale/bepjea/xwebtex/litt/practical-byzantine-fault-tolerance-and-proactive-recovery.pdf)
+* [Practical Byzantine Fault Tolerance and Proactive Recovery](http://www.microsoft.com/research/wp-content/uploads/2017/01/p398-castro-bft-tocs.pdf)
 
 * [Pregel: A System for Large-Scale Graph Processing](http://kowshik.github.io/JPregel/pregel_paper.pdf)
 
@@ -49,6 +49,8 @@
 
 * [The Byzantine Generals Problem](http://www.andrew.cmu.edu/course/15-749/READINGS/required/resilience/lamport82.pdf)
 
+* [Hashgraph Consensus: Fair, Fast, Byzantine Fault Tolerance](https://swirlds.com/downloads/SWIRLDS-TR-2016-01.pdf)
+
 * [:scroll:](the-chubby-lock-service-for-loosely-coupled-distributed-systems.pdf) [The Chubby Lock Service for Loosely-Coupled Distributed Systems](http://static.googleusercontent.com/media/research.google.com/en/us/archive/chubby-osdi06.pdf)
 
 * [:scroll:](join-calculus.pdf) [The Join Calculus: a Language for Distributed Mobile Programming](http://research.microsoft.com/en-us/um/people/fournet/papers/join-tutorial.pdf)
@@ -57,11 +59,11 @@
 
 * [There Is More Consensus in Egalitarian Parliaments](https://www.cs.cmu.edu/~dga/papers/epaxos-sosp2013.pdf)
 
-* [Transactional Client-Server Cache Consistency: Alternatives and Performance](http://www.cs.berkeley.edu/~franklin/Papers/p315-franklin.pdf)
+* [Transactional Client-Server Cache Consistency: Alternatives and Performance](http://drum.lib.umd.edu/bitstream/handle/1903/751/CS-TR-3511.pdf)
 
 * [Unicorn: A System for Searching the Social Graph](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf)
 
-* [Unikernels: Library Operating Systems for the Cloud](http://anil.recoil.org/papers/2013-asplos-mirage.pdf)
+* [Unikernels: Library Operating Systems for the Cloud](http://unikernel.org/files/2013-asplos-mirage.pdf)
 
 * [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](http://www.cs.utexas.edu/~shmat/courses/cs395t_fall04/chaum81.pdf)
 
@@ -83,9 +85,9 @@
 
 * :scroll: [Beehive: O(1) Lookup Performance for Power-Law Query Distributions in Peer-to-Peer Overlays](beehive-lookup-performance-for-power-law-query-distributions-in-peer-to-peer-overlays.pdf)
 
-* :scroll: [Byzantine Chain Replication](bizantine-chain-replication.pdf)
+* :scroll: [Byzantine Chain Replication](byzantine-chain-replication.pdf)
 
-* :scroll: [A Byzantine Fault Tolerant Distributed Commit Protocol](bizantine-fault-tolerant-distributed-commit-protocol.pdf)
+* :scroll: [A Byzantine Fault Tolerant Distributed Commit Protocol](byzantine-fault-tolerant-distributed-commit-protocol.pdf)
 
 * :scroll: [Brewer’s Conjecture and the Feasibility of Consistent, Available, Partition-Tolerant Web Services](brewers-conjecture.pdf)
 
@@ -122,7 +124,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Implementing the Omega failure detector in the crash-recovery failure model](implementing-the-omega-failure-detector-in-crash-recovery-failure-model.pdf)
 
-* :scroll: [Impossibility of Distributed Consensuswith One Faulty Process](impossibility-of-consensus-with-one-faulty-process.pdf)
+* :scroll: [Impossibility of Distributed Consensus with One Faulty Process](impossibility-of-consensus-with-one-faulty-process.pdf)
 
 * :scroll: [In Search of an Understandable Consensus Algorithm](in-search-of-an-understandable-consensus-algorithm.pdf)
 
@@ -130,7 +132,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Large-scale Incremental Processing Using Distributed Transactions and Notifications](large-scale-incremental-processing-using-distributed-transactions-and-notifications.pdf)
 
-* :scroll: [Life beyond Distributed Transactions: an Apostate’s Opinion](life-beyoud-distributed-transactions-an-apostates-opinion.pdf)
+* :scroll: [Life beyond Distributed Transactions: an Apostate’s Opinion](life-beyond-distributed-transactions-an-apostates-opinion.pdf)
 
 * :scroll: [MapReduce: Simplified Data Processing on Large Clusters](mapreduce-simplified-data-processing-on-large-clusters.pdf)
 
@@ -154,7 +156,7 @@ Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](con
 
 * :scroll: [Signal/Collect: Graph Algorithms for the (Semantic) Web](signal-%26-collect-graph-algorithms-for-the-\(semantic\)-web.pdf)
 
-* :scroll: [Slution of a Problem in 
+* :scroll: [Solution of a Problem in
 Concurrent Programming Control](solution-of-a-problem-in-concurrent-programming-control.pdf)
 
 * :scroll: [Sparse Partitions](sparse-partitions.pdf)
@@ -163,7 +165,7 @@ Concurrent Programming Control](solution-of-a-problem-in-concurrent-programming-
 
 * :scroll: [The Akamai Network: A Platform for High-Performance Internet Applications](the-akamai-network.pdf)
 
-* :scroll: [The Dining CryptographersProblem:
+* :scroll: [The Dining Cryptographers Problem:
 Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-problem.pdf)
 
 * :scroll: [Tor: The Second-Generation Onion Router](tor-the-second-generation-onion-router.pdf)
@@ -174,7 +176,7 @@ Unconditional Sender and Recipient Untraceability](the-dining-cryptographers-pro
 
 * :scroll: [￼￼￼￼￼￼￼￼￼￼Viewing Control Structures as Patterns of Passing Messages](viewing-control-structures-as-patterns-of-passing-messages.pdf)
 
-* :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](warp-multi-key-transactions-for-key-value-stores.pdf)
+* :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](../datastores/warp-multi-key-transactions-for-key-value-stores.pdf)
 
 * :scroll: [Zab: High-performance broadcast for primary-backup systems](zab-high-performance-broadcast-for-primary-backup-systems.pdf)
 
@@ -189,7 +191,7 @@ Full Cluster Geo-replication](tiered-replication-a-cost-effective-alternative-to
 
 * [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 
-* [f4: Facebook’s Warm BLOB Storage System](http://www-bcf.usc.edu/~wyattllo/papers/f4-osdi14.pdf)
+* [f4: Facebook’s Warm BLOB Storage System](http://www.usenix.org/system/files/conference/osdi14/osdi14-paper-muralidhar.pdf)
 
 * [The Case for Determinism in Database Systems](http://cs-www.cs.yale.edu/homes/dna/papers/determinism-vldb10.pdf)
 
@@ -209,15 +211,15 @@ Full Cluster Geo-replication](tiered-replication-a-cost-effective-alternative-to
 
 * [F1: A Distributed SQL Database That Scales](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41344.pdf)
 
-* [HaLoop: Efficient Iterative Data Processing on Large Clusters](http://www.ics.uci.edu/~yingyib/papers/HaLoop_camera_ready.pdf)
+* [HaLoop: Efficient Iterative Data Processing on Large Clusters](http://homes.cs.washington.edu/~billhowe/pubs/HaLoop.pdf)
 
 * [HyperDex: A Distributed, Searchable Key-Value Store](https://cs.uwaterloo.ca/~bernard/hyperdex.pdf)
 
-* [Introduction to a System for Distributed Databases SDD-1](http://www.few.vu.nl/~kgr700/sdd1.pdf)
+* [Introduction to a System for Distributed Databases SDD-1](http://people.eecs.berkeley.edu/~wong/wong_pubs/wong73.pdf)
 
 * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
 
-* [Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf)
+* [Managing Update Conflicts in Bayou, a Weakly Connected Replicated Storage System](http://www.cs.utexas.edu/~lorenzo/corsi/cs380d/papers/p172-terry.pdf)
 
 * [Map-Reduce-Merge: Simplified Relational Data Processing on Large Clusters](http://www.cs.duke.edu/courses/cps399.28/current/papers/sigmod07-YangDasdanEtAl-map_reduce_merge.pdf)
 
@@ -253,12 +255,14 @@ Full Cluster Geo-replication](tiered-replication-a-cost-effective-alternative-to
 
 * :scroll: [Warp: Multi-Key Transactions for Key-Value Stores](../datastores/warp-multi-key-transactions-for-key-value-stores.pdf)
 
+* :scroll: [Spartan: A distributed array framework with smart tiling](../datastores/spartan-a-distributed-array-framework-with-smart-tiling.pdf)
+
 ### Physics
 
 * :scroll: [“On the Electrodynamics of Moving Bodies” (1905) — Einstein](../physics/on-the-electrodynamics-of-moving-bodies.pdf)
 
     By solving the [asymmetries](http://en.wikipedia.org/wiki/Moving_magnet_and_conductor_problem) that arise in Maxwell’s equations, Einstein’s 1905 paper set the stage for current distributed systems work by demonstrating that there is no absolute frame of reference and by providing an upper bound on the speed of communication.
-    
+
 ### <a name="testing-verification-and-correctness"></a>Testing, Verification, and Correctness
 
 * :scroll: [Simple Testing Can Prevent Most Critical Failures:
@@ -266,5 +270,3 @@ An Analysis of Production Failures in Distributed
 Data-Intensive Systems](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf)
 
 * :scroll: [IronFleet: Proving Practical Distributed Systems Correct](http://research.microsoft.com/pubs/255833/IronFleet-twocol.pdf)
-
-
